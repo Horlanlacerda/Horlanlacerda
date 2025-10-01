@@ -15,7 +15,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img 
       src="https://github-readme-activity-graph.vercel.app/graph?username=Horlanlacerda&bg_color=000000&color=a085ff&line=a085ff&point=8A2BE2&area=true&hide_border=true"
-      style="width: 89.5%;"
+      style="width: 90%;"
     />
   </a>
 </div>
