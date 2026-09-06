@@ -2,16 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Horlan+Silva+De+Lacerda;I+study+Computer+Science+at+UEPB;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img height="160px" src="./profile/stats.svg" />
-    </td>
-    <td>
-      <img height="160px" src="./profile/top-langs.svg" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    width="48%"
+    src="./profile/stats.svg"
+  />
+  <img
+    width="48%"
+    src="./profile/top-langs.svg"
+  />
+</div>
 
 <br>
 
