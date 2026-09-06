@@ -18,7 +18,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HorlanLacerda&bg_color=000000&color=a085ff&line=a085ff&point=8A2BE2&area=true&hide_border=true"
+    src="./profile/activity-graph.svg"
     style="width: 90%;"
   />
 </div>
