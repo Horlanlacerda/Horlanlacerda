@@ -5,24 +5,22 @@
 <div align="center">
   <img
     height="160px"
-    src="https://github-readme-stats.vercel.app/api?username=HorlanLacerda&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117"
+    src="./profile/stats.svg"
   />
 
   <img
     height="160px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorlanLacerda&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117"
+    src="./profile/top-langs.svg"
   />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=HorlanLacerda&bg_color=000000&color=a085ff&line=a085ff&point=8A2BE2&area=true&hide_border=true"
-      style="width: 90%;"
-    />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HorlanLacerda&bg_color=000000&color=a085ff&line=a085ff&point=8A2BE2&area=true&hide_border=true"
+    style="width: 90%;"
+  />
 </div>
 <br>
 
