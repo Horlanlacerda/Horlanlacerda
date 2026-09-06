@@ -2,19 +2,28 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Horlan+Silva+De+Lacerda;I+study+Computer+Science+at+UEPB;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center" style="display: flex; justify-content: center;">  
-  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Horlanlacerda&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Horlanlacerda&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
-</div>
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Horlanlacerda&bg_color=000000&color=a085ff&line=a085ff&point=8A2BE2&area=true&hide_border=true"
+  <img
+    height="160px"
+    src="https://github-readme-stats.vercel.app/api?username=HorlanLacerda&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117"
+  />
+
+  <img
+    height="160px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorlanLacerda&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=HorlanLacerda&bg_color=000000&color=a085ff&line=a085ff&point=8A2BE2&area=true&hide_border=true"
       style="width: 90%;"
     />
   </a>
 </div>
-
 <br>
 
 ### 👨🏼‍💻 About me
