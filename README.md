@@ -4,11 +4,11 @@
 
 <div align="center">
   <img
-    width="48%"
+    height="160px"
     src="./profile/stats.svg"
   />
   <img
-    width="48%"
+    height="160px"
     src="./profile/top-langs.svg"
   />
 </div>
